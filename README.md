@@ -16,6 +16,10 @@ Learn about AI hacking and utilize AI tools to hack!
 ### Demo #4: Attacks on Web Chatbots
 -- https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency
 
+### Connect with the speaker:
+- https://www.linkedin.com/in/betta-lyon-delsordo/
+- https://lyondelsordobetta.wixsite.com/betta
+
 ## Full Reference Materials
 
 Practice prompt injection:
