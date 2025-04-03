@@ -14,7 +14,7 @@ Learn about AI hacking and utilize AI tools to hack!
 - Llama3 on Ollama setup guide: https://github.com/ollama/ollama
 
 ### Demo #4: Attacks on Web Chatbots
--- https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency
+- https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency
 
 ### Connect with the speaker:
 - https://www.linkedin.com/in/betta-lyon-delsordo/
