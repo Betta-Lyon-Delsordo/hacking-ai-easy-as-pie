@@ -48,7 +48,7 @@ AI for hacking:
 - Ollama: https://ollama.com/
 - Llama3 on Ollama setup guide: https://github.com/ollama/ollama
 - GPT4All: https://www.nomic.ai/gpt4all
-- "Uncensored" models: https://erichartford.com/uncensored-models and https://ollama.com/library/llama2-uncensored
+- "Uncensored" models: https://erichartford.com/uncensored-models and https://ollama.com/library/llama2-uncensored and https://ollama.com/gdisney/mistral-uncensored
 - https://github.com/GreyDGL/PentestGPT
 - https://github.com/ipa-lab/hackingBuddyGPT
 
