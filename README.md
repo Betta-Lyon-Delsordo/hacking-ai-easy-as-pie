@@ -4,14 +4,14 @@ Learn about AI hacking and utilize AI tools to hack!
 ## WiCyS Conference 2025 Workshop Materials
 
 ### Demo #1: Prompt Injection
--- Gandalf by Lakera: https://gandalf.lakera.ai/gandalf
+- Gandalf by Lakera: https://gandalf.lakera.ai/gandalf
 
 ### Demo #2: AI Tools for Cyber
--- Amazon PartyRock: https://partyrock.aws/home
+- Amazon PartyRock: https://partyrock.aws/home
 
 ### Demo #3: Offline AI Tools
--- Ollama: https://ollama.com/
--- Llama3 on Ollama setup guide: https://github.com/ollama/ollama
+- Ollama: https://ollama.com/
+- Llama3 on Ollama setup guide: https://github.com/ollama/ollama
 
 ### Demo #4: Attacks on Web Chatbots
 -- https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency
@@ -19,17 +19,17 @@ Learn about AI hacking and utilize AI tools to hack!
 ## Full Reference Materials
 
 Practice prompt injection:
--- Gandalf by Lakera: https://gandalf.lakera.ai/gandalf
--- Immersive Labs: https://prompting.ai.immersivelabs.com/ 
--- Prompt Airlines by Wiz: https://promptairlines.com/
--- Damn Vulnerable LLM Agent: https://github.com/WithSecureLabs/damn-vulnerable-llm-agent 
+- Gandalf by Lakera: https://gandalf.lakera.ai/gandalf
+- Immersive Labs: https://prompting.ai.immersivelabs.com/ 
+- Prompt Airlines by Wiz: https://promptairlines.com/
+- Damn Vulnerable LLM Agent: https://github.com/WithSecureLabs/damn-vulnerable-llm-agent 
 
 Prompt injection examples:
--- https://github.com/mik0w/pallms
--- https://github.com/Cranot/chatbot-injections-exploits
--- https://github.com/TakSec/Prompt-Injection-Everywhere
--- https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
--- https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-adversarial.md
+- https://github.com/mik0w/pallms
+- https://github.com/Cranot/chatbot-injections-exploits
+- https://github.com/TakSec/Prompt-Injection-Everywhere
+- https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
+- https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-adversarial.md
 -- https://gist.github.com/deadbits/e93a90aa36c9aa7b5ce1179597a6fe3d
 
 Practice attacks on web chatbots:
