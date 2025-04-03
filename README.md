@@ -19,6 +19,7 @@ Learn about AI hacking and utilize AI tools to hack!
 ### Connect with the speaker:
 - https://www.linkedin.com/in/betta-lyon-delsordo/
 - https://lyondelsordobetta.wixsite.com/betta
+- My article in the AI Cyber Magazine: https://www.linkedin.com/posts/activity-7308525731066593280-gvn0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkclQ4BwyV6l9laEwkfGXX3MP5u2r_KL0s and the full magazine: https://issuu.com/aicybermagazine/docs/ai_cyber_-_spring_2025_issue
 
 ## Full Reference Materials
 
