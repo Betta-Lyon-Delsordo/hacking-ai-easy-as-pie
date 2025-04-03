@@ -73,6 +73,7 @@ Further reading:
 - https://github.com/ottosulin/awesome-ai-security
 - https://atlas.mitre.org/matrices/ATLAS/
 - https://github.com/EasyJailbreak/EasyJailbreak
+- https://www.arthur.ai/blog/from-jailbreaks-to-gibberish-understanding-the-different-types-of-prompt-injections
 
 
 
