@@ -5,9 +5,11 @@ Learn about AI hacking and utilize AI tools to hack!
 
 ### Demo #1: Prompt Injection
 - Gandalf by Lakera: https://gandalf.lakera.ai/gandalf
+- Poll: What was your best prompt? https://app.sli.do/event/4KYszebXBwCxzXio9ZWPH2/live/polls 
 
 ### Demo #2: AI Tools for Cyber
 - Amazon PartyRock: https://partyrock.aws/home
+- Poll: Share your app! https://app.sli.do/event/ofEvrhsk9vEtCVGaFjoNxA
 
 ### Demo #3: Offline AI Tools
 - Ollama: https://ollama.com/
